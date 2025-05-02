@@ -3,13 +3,13 @@
 
 Le jeu de la vie est un automate cellulaire développé par le mathématicien John Conway. C'est un excellent exercice pour pratiquer la programmation orientée objet et la résolution de problèmes en informatique.
 
-##Objectif du Kata
+## Objectif du Kata
 
 L'objectif de ce kata est d'implémenter la logique du jeu de la vie en Swift, en vous basant sur une application existante qui gère l'affichage et l'interaction avec l'utilisateur.
 
 ![Gif of game of life game session.](/GameSession.gif)
 
-##Règles du jeu
+## Règles du jeu
 
 Les règles du jeu de la vie sont les suivantes :
 - Une cellule morte avec exactement 2 voisins vivants devient vivante (reproduction).
